@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧${s.BOT}✧────◆
+╭────✧{MIRAGE MD V1.5.2 BOT}✧────◆
 │   📚*Prefix* : ${s.PREFIXE}
 │   👩‍💻*Owner* : ${s.OWNER_NAME}
 │   🏅*Mode* : ${mode}
