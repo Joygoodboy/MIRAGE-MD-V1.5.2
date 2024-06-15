@@ -53,7 +53,7 @@ function get_level_exp(xp) {
         { level: 47, xpThreshold: 1185000},
         { level: 48, xpThreshold: 1240000},
         { level: 49, xpThreshold: 1295000},
-        { level: 'Zk-GOD', xpThreshold: 2000000}
+        { level: 'Zk-Tribal chief', xpThreshold: 2000000}
     ];
 
     let level = 0;
@@ -134,7 +134,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ ZK-Rang ┗━━━┓
+┏━━━┛ MIRAGE MD V1.5.2-Rank ┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -146,7 +146,7 @@ zokou( {
 
     *Messages :* ${rank.messages}
     
-   ┕━✿━┑  ┍━✿━┙`
+   ┕━🦁━┑  ┍━🦁━┙`
     
      zk.sendMessage( 
         dest,
@@ -210,7 +210,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ ZK-Rang ┗━━━┓
+┏━━━┛MIRAGE MD V1.5.2-Rank ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -222,7 +222,7 @@ zokou( {
 
   *Messages :* ${rang.messages}
 
-   ┕━✿━┑  ┍━✿━┙`
+   ┕━🦁━┑  ┍━🦁━┙`
     
      zk.sendMessage( 
         dest,
@@ -251,7 +251,7 @@ zokou( {
     const {ms , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━━┛ ZK-top-rang ┗━━┓\n\n`
+       let msg = `┏━━┛ MIRAGE MD-top-rang ┗━━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
@@ -282,7 +282,7 @@ zokou( {
          } else if ( data.level >= 45 && data.level < 50 ) {
             role = 'Otsusuki'
          } else {
-            role = 'level-GOD'
+            role = 'level-tribal chief'
          }
             msg += `-----------------------
             
