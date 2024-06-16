@@ -43,7 +43,7 @@
 4. 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐌𝐄𝐓𝐇𝐎𝐃
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
+     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Joygoodboy/MIRAGE-MD-V1.5.2) to deploy the bot on **Heroku**.
 
 ## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 𝐂𝐡𝐚𝐭 𝐠𝐫𝐨𝐮𝐩
